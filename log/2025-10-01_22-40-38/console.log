@@ -1,0 +1,21 @@
+[DEBUG 22:40:38 sjtuautorun] ('Emulator status', 'running')
+[INFO 22:40:41 sjtuautorun] Android Connected!
+[INFO 22:40:49 sjtuautorun] resolution:(1920, 1080)
+[DEBUG 22:40:50 sjtuautorun] ('Emulator status', 'stop')
+[DEBUG 22:40:51 sjtuautorun] ('Emulator status', 'stop')
+[DEBUG 22:40:52 sjtuautorun] ('Emulator status', 'stop')
+[DEBUG 22:40:53 sjtuautorun] ('Emulator status', 'stop')
+[DEBUG 22:40:55 sjtuautorun] ('Emulator status', 'running')
+[DEBUG 22:40:55 sjtuautorun] ('Emulator status', 'running')
+[INFO 22:41:21 sjtuautorun] Android Connected!
+[INFO 22:41:25 sjtuautorun] resolution:(1080, 1920)
+[INFO 22:41:39 sjtuautorun] Update Pop-up found, restarting...
+[DEBUG 22:41:55 sjtuautorun] ('click:', 1759329715.7231846, 579, 55)
+[DEBUG 22:41:57 sjtuautorun] ('Typing:去跑步',)
+[WARNING 22:42:17 sjtuautorun] ===================WARNING===================
+[WARNING 22:42:17 sjtuautorun] Cannot find the go running icon in searching bar, restarting...Restarting trial 0.
+[WARNING 22:42:17 sjtuautorun] ====================END====================
+[DEBUG 22:42:36 sjtuautorun] ('click:', 1759329756.798757, 579, 55)
+[DEBUG 22:42:38 sjtuautorun] ('Typing:去跑步',)
+[DEBUG 22:42:38 sjtuautorun] ('click:', 1759329758.9439802, 101, 186)
+[INFO 22:42:40 sjtuautorun] Started successfully!

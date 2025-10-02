@@ -1,0 +1,14 @@
+{
+    "DEBUG": true,
+    "DELAY": 1.5,
+    "LOG_PATH": "log",
+    "PLAN_ROOT": "D:\\jihua",
+    "SHOW_ANDROID_INPUT": true,
+    "emulator": {
+        "emulator_dir": "F:\\leidian\\LDPlayer9",
+        "emulator_index": 0
+    },
+    "log_dir": "D:\\py\\Lib\\site-packages\\sjtuautorun\\log\\2025-10-01_23-40-25",
+    "log_level": "DEBUG",
+    "plan": "default"
+}

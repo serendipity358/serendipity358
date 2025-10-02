@@ -1,0 +1,13 @@
+[DEBUG 22:45:28 sjtuautorun] ('Emulator status', 'running')
+[INFO 22:45:30 sjtuautorun] Android Connected!
+[INFO 22:45:33 sjtuautorun] resolution:(1080, 1920)
+[WARNING 22:45:52 sjtuautorun] ===================WARNING===================
+[WARNING 22:45:52 sjtuautorun] Cannot find the searching bar, restarting...
+[WARNING 22:45:52 sjtuautorun] ====================END====================
+[WARNING 22:46:28 sjtuautorun] ===================WARNING===================
+[WARNING 22:46:28 sjtuautorun] Cannot find the searching bar, restarting...Restarting trial 1.
+[WARNING 22:46:28 sjtuautorun] ====================END====================
+[DEBUG 22:46:40 sjtuautorun] ('click:', 1759330000.8132293, 579, 55)
+[DEBUG 22:46:42 sjtuautorun] ('Typing:去跑步',)
+[DEBUG 22:46:44 sjtuautorun] ('click:', 1759330004.0317993, 101, 186)
+[INFO 22:46:45 sjtuautorun] Started successfully!

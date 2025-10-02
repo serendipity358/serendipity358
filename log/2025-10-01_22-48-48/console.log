@@ -1,0 +1,7 @@
+[DEBUG 22:48:48 sjtuautorun] ('Emulator status', 'running')
+[INFO 22:48:50 sjtuautorun] Android Connected!
+[INFO 22:48:53 sjtuautorun] resolution:(1080, 1920)
+[DEBUG 22:49:07 sjtuautorun] ('click:', 1759330147.4225965, 579, 55)
+[DEBUG 22:49:08 sjtuautorun] ('Typing:去跑步',)
+[DEBUG 22:49:10 sjtuautorun] ('click:', 1759330150.7694404, 101, 186)
+[INFO 22:49:11 sjtuautorun] Started successfully!
